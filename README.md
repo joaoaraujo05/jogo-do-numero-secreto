@@ -1,4 +1,4 @@
-# Projeto do Jogo do Número Secreto
+# Jogo do Número Secreto
 Projeto desenvolvido durante o curso de Lógica de programação: explore funções e listas.
 ## Linguagens utilizadas
 - `HTML`: linguagem de marcação de texto.
